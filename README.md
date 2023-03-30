@@ -8,10 +8,10 @@ With this tool one can load a video, label human activities in the video with ea
 - Laying
 
 <div style="display: inline-block;">
-    <img src="./.media/showcase.gif"  width="600">
+    <img src="./media/showcase.gif"  width="600">
 </div>
 
 <div style="display: inline-block;">
-    <img src="./.media/imgs.png"  width="600">
+    <img src="./media/imgs.png"  width="600">
 </div>
 
