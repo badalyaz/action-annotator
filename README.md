@@ -1,4 +1,4 @@
-# ActionTrack
+# Action Annotator
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <div style="display: inline-block;">
     <img src="./media/showcase.gif"  width="600">
